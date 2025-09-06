@@ -17,3 +17,8 @@ This project analyzes the Global Superstore dataset to identify key drivers of p
 1. Ensure you have Python and the `pandas` & `pandasql` libraries installed.
 2. Clone or download the repository.
 3. Run the `analysis.py` script. The script will load the `GlobalSuperstore.csv` dataset, perform all the analysis, and print the key findings to the console.
+
+## 📊 Interactive Dashboard
+You can view and interact with the full dashboard on Google Looker Studio.
+
+**[➡️ View the Live Dashboard](https://lookerstudio.google.com/s/tnQEdEcj7Tc)**
